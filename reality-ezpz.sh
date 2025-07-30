@@ -39,7 +39,7 @@ WIDTH=60
 CHOICE_HEIGHT=20
 
 image[xray]="teddysun/xray:latest"
-image[sing-box]="gzxhwq/sing-box:latest"
+image[sing-box]="gzxhwq/sing-box:dev"
 image[nginx]="nginx:latest"
 image[certbot]="certbot/certbot:latest"
 image[haproxy]="haproxy:latest"
